@@ -5,3 +5,5 @@
 ### Source repository URL : https://github.com/rniman/Nightmare_Lab
 
 - Key Objectives: Code Clearance and Refectory
+
+- Additional Objectives: Improvement Frame Rate
